@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @jibay442
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there, I’m @jibay442!  
 
-<!---
-jibay442/jibay442 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me  
+- 🏢 I work at **Aveliis** in Saint-Étienne, France.  
+- 💻 I’m passionate about all things tech: **Cloud Computing**, **Linux**, **Docker**, **Scripting**, and the vast universe of **computers in general**.  
+- 🌱 Currently diving deeper into **cloud automation**, refining my **Linux-fu**, and mastering **container orchestration**.  
+
+## My Goals  
+- 💡 Always curious, always learning. I aim to keep exploring and contributing to innovative projects.  
+- 🤝 I’m eager to collaborate on open-source projects or initiatives related to **DevOps**, **infrastructure as code**, or **custom scripting solutions**.  
+
+## Fun Fact  
+- 🚀 If I’m not coding, I’m probably tinkering with a new tool, experimenting with configurations, or exploring cool tech innovations.  
+
+## Let’s Connect!  
+- 📫 Drop me a line at **jibay442@example.com** (or replace with actual contact info).  
+- ✨ Always happy to chat tech and collaborate with like-minded folks!  
+
+---
+"Technology is best when it brings people together, so let’s create something awesome!" 🌟
