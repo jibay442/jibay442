@@ -11,9 +11,6 @@
 
 ## Fun Fact  
 - 🚀 If I’m not coding, I’m probably tinkering with a new tool, experimenting with configurations, or exploring cool tech innovations.  
-
-## Let’s Connect!  
-- 📫 Drop me a line at **jibay442@example.com** (or replace with actual contact info).  
 - ✨ Always happy to chat tech and collaborate with like-minded folks!  
 
 ---
